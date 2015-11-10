@@ -1,0 +1,1 @@
+  * UserData.hasAuthority moved to UserDataUtils.hasAuthority
